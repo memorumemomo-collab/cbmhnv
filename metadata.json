@@ -1,0 +1,6 @@
+{
+  "name": "書斎 (Private Library)",
+  "description": "個人の非公開小説ライブラリおよびミニマル小説ビューア",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
